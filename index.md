@@ -4,4 +4,4 @@ I'm a data scientist. I used to be a computational Geochemist, you can see some 
 
 ### Projects
 
-I have a few projects here on Github, and I hope to
+I have a few projects here on Github, and I hope to be starting a few more.
